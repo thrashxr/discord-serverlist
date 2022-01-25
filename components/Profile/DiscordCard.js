@@ -1,4 +1,4 @@
-import { FaDiscord } from 'react-icons/all'
+import { FaDiscord } from 'react-icons'
 import {
     Button
 } from '@chakra-ui/react'
